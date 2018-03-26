@@ -13,3 +13,7 @@ Technologies used: Unity-3D, C#, Blender, OpenBabel, JMol
 ### Micro-controller based interface for controlling computer using photo-transistor (2017)
 Abstract 
 This novel work in Human Computer Interaction recognizes hand gestures to control a computer using an Arduino board and Photo-Transistors. The current implementation controls the movement of mouse pointer smoothly on the screen as the user moves his hand over a set of photo-transistors. These transistors are sensitive to light and moving a hand or finger changes the intensity of light falling on them. The light intensity signals are routed to the computer through an Arduino using Serialized USB port. A Java based daemon (developed with Processing IDE) running on the computer taps these signals from the designated USB port and processes them to detect changes in light intensity to control the mouse icon on the screen. The applications of the generalization of the proposed system are immense, ranging from human computer interaction and virtual reality to robot control and immersive gaming environment. 
+
+## Contact
+[https://sites.google.com/bits-pilani.ac.in/utkarsh/home] Google Sites
+[http://linkedin.com/in/utkarshbits/] Linkedin
